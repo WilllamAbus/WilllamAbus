@@ -11,10 +11,12 @@ I'm a software engineer specializing in embedded systems and full-stack web deve
 
 ## Technologies
 
-- Languages: C/C++, JavaScript and TypeScript
+- Languages: C/C++, JavaScript,  TypeScript
 - Embedded Platforms: STM32, ARM Cortex-M and FreeRTOS
-- Frameworks: React, Next.js and Express.js,
-- Databases: PostgreSQL and MySQL
+- Frameworks: React, Next.js and Express.js, Nestjs
+- Webstyle: bootstrap, tailwindcss, scss, css
+- Databases: PostgreSQL, MySQL, MongoDb
+- Tools : Github, GitLab, Docker, Figma, Postman
 - Operating Systems: Linux (Ubuntu) and Windows
 
 ## Project
