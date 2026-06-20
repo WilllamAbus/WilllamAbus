@@ -13,9 +13,10 @@ I'm a software engineer specializing in embedded systems and full-stack web deve
 
 - Languages: C/C++, JavaScript and TypeScript
 - Embedded Platforms: STM32, ARM Cortex-M and FreeRTOS
-- Frameworks: React, Next.js and Express.js
+- Frameworks: React, Next.js and Express.js,
 - Databases: PostgreSQL and MySQL
 - Operating Systems: Linux (Ubuntu) and Windows
 
 ## Project
 - Demo video: https://youtu.be/_UUsJYBmcCc
+- Source web: https://github.com/WilllamAbus/DATN-Elec
